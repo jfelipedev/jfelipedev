@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jfelipedev
+- 👋 Hi, I’m Felipe
 - 👀 I’m interested in learning more and more about web development 
 - 🌱 I’m currently learning JS, HTML, CSS and all those things about web dev 
 - 💞️ I’m looking to collaborate on whatever I can
