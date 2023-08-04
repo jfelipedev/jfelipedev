@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felipe
 - 👀 I’m interested in learning more and more about web development 
-- 🌱 I’m currently learning JS, HTML, CSS, ReactJS, Java, Springboot and all those things about web dev 
+- 🌱 I’m currently learning JS, HTML, CSS, ReactJS, Java, NodeJS and all those things about web dev 
 - 💞️ I’m looking to collaborate on whatever I can
 - 📫 How to reach me: try on LinkedIn: https://www.linkedin.com/in/felipebarbosadev/
 <!---
